@@ -78,6 +78,9 @@ g++ main.cpp Node.cpp Edge.cpp Cluster.cpp KMeans.cpp Graph.cpp Prim.cpp -std=c+
 
 This command is typed into the terminal to view the results: Output command
 
+./a.out
+
+
 ![image](https://user-images.githubusercontent.com/78980365/151424455-8279b5bc-14ff-4de8-aa0a-d3802f69d2a1.png)
 
 
@@ -85,6 +88,3 @@ This command is typed into the terminal to view the results: Output command
 
 
 Youtube: https://www.youtube.com/watch?v=PxEkcAIync0
-
-
-./a.out
